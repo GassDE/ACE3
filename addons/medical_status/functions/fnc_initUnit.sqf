@@ -64,11 +64,7 @@ _unit setVariable [QEGVAR(medical,bodyPartStatus), [0,0,0,0,0,0], true];
 #endif
 
 // medication
-private _allUsedMedication = _unit getVariable [QEGVAR(medical,allUsedMedication), []];
-{
-   _unit setVariable [_x select 0, nil];
-} forEach _allUsedMedication;
-_unit setVariable [QEGVAR(medical,allUsedMedication), [], true];
+_unit setVariable [VAR_MEDICATIONS, [], true];
 
 // TODO move to treatment
 private _logs = _unit getVariable [QEGVAR(medical,allLogs), []];

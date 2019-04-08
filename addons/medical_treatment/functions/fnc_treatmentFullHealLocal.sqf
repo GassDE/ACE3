@@ -65,11 +65,7 @@ _target setVariable [VAR_IN_PAIN, false, true];
 _target setVariable [VAR_PAIN_SUPP, 0, true];
 
 // medication
-private _allUsedMedication = _target getVariable [QEGVAR(medical,allUsedMedication), []];
-
-{
-   _target setVariable [_x select 0, nil];
-} forEach _allUsedMedication;
+_target setVariable [VAR_MEDICATIONS, [], true];
 
 // Reset triage card since medication is all reset
 _target setVariable [QEGVAR(medical,triageCard), [], true];
