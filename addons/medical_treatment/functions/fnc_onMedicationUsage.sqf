@@ -37,12 +37,14 @@ private _fnc_getMedicationCount = {
 
 private _overdosedMedications = [];
 
-private _usedMeds = [_target, _className] call _fnc_getMedicationCount;
-if (_usedMeds >= floor (_maxDosage + round(random(2))) && {_maxDosage >= 1}) then {
-    TRACE_1("exceded max dose",_usedMeds);
+// Check for overdose from current medication
+private _currentDose = [_target, _className] call _fnc_getMedicationCount;
+if (_currentDose >= floor (_maxDosage + round(random(2))) && {_maxDosage >= 1}) then {
+    TRACE_1("exceded max dose",_currentDose);
     _overdosedMedications pushBackUnique _className;
 };
 
+// Check incompatible medication (format [med,limit])
 {
     _x params ["_xMed", "_xLimit"];
     private _inSystem = [_target, _xMed] call _fnc_getMedicationCount;
@@ -58,8 +60,9 @@ if ((count _overdosedMedications) > 0) then {
         _medicationConfig = (_medicationConfig >> _className);
         if (isText (_medicationConfig  >> "onOverDose")) then { _onOverDose = getText (_medicationConfig >> "onOverDose"); };
     };
+    TRACE_2("overdose",_overdosedMedications,_onOverDose);
     if (_onOverDose == "") exitWith {
-        TRACE_1("overdose",_onOverDose);
+        TRACE_1("CriticalVitals Event",_target); // make unconscious
         [QEGVAR(medical,CriticalVitals), _target] call CBA_fnc_localEvent;
     };
     if (isNil _onOverDose) then {
