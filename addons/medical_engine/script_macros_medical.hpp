@@ -120,9 +120,7 @@
 #define VAR_PERIPH_RES  QEGVAR(medical,peripheralResistance)
 #define VAR_UNCON       "ACE_isUnconscious"
 // These variables track gradual adjustments (from medication, etc.)
-#define VAR_HEART_RATE_ADJ  QEGVAR(medical,heartRateAdjustments)
-#define VAR_PAIN_SUPP_ADJ   QEGVAR(medical,painSuppressAdjustments)
-#define VAR_PERIPH_RES_ADJ  QEGVAR(medical,peripheralResistanceAdjustments)
+#define VAR_MEDICATIONS     QEGVAR(medical,medications)
 // These variables track the current state of status values above
 #define VAR_HEMORRHAGE      QEGVAR(medical,hemorrhage)
 #define VAR_IN_PAIN         QEGVAR(medical,inPain)

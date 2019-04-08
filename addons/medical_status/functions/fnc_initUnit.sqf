@@ -26,10 +26,8 @@ if (damage _unit > 0) then {
 // - Blood and heart ----------------------------------------------------------
 _unit setVariable [VAR_BLOOD_VOL, DEFAULT_BLOOD_VOLUME, true];
 _unit setVariable [VAR_HEART_RATE, DEFAULT_HEART_RATE, true];
-_unit setVariable [VAR_HEART_RATE_ADJ, [], true];
 _unit setVariable [VAR_BLOOD_PRESS, [80, 120], true];
 _unit setVariable [VAR_PERIPH_RES, DEFAULT_PERIPH_RES, true];
-_unit setVariable [VAR_PERIPH_RES_ADJ, [], true];
 _unit setVariable [VAR_CRDC_ARRST, false, true];
 _unit setVariable [VAR_HEMORRHAGE, 0, true];
 
@@ -37,7 +35,6 @@ _unit setVariable [VAR_HEMORRHAGE, 0, true];
 _unit setVariable [VAR_PAIN, 0, true];
 _unit setVariable [VAR_IN_PAIN, false, true];
 _unit setVariable [VAR_PAIN_SUPP, 0, true];
-_unit setVariable [VAR_PAIN_SUPP_ADJ, [], true];
 
 // - Wounds -------------------------------------------------------------------
 _unit setVariable [QEGVAR(medical,openWounds), [], true];

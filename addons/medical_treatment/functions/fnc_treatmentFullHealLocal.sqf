@@ -45,10 +45,8 @@ _target setVariable [QEGVAR(medical,isLimping), false, true];
 
 // vitals
 _target setVariable [VAR_HEART_RATE, DEFAULT_HEART_RATE, true];
-_target setVariable [VAR_HEART_RATE_ADJ, [], true];
 _target setVariable [VAR_BLOOD_PRESS, [80, 120], true];
 _target setVariable [VAR_PERIPH_RES, DEFAULT_PERIPH_RES, true];
-_target setVariable [VAR_PERIPH_RES_ADJ, [], true];
 
 // IVs
 _target setVariable [QEGVAR(medical,ivBags), nil, true];
@@ -65,7 +63,6 @@ _target setVariable [VAR_UNCON, false, true];
 _target setVariable [VAR_HEMORRHAGE, 0, true];
 _target setVariable [VAR_IN_PAIN, false, true];
 _target setVariable [VAR_PAIN_SUPP, 0, true];
-_target setVariable [VAR_PAIN_SUPP_ADJ, [], true];
 
 // medication
 private _allUsedMedication = _target getVariable [QEGVAR(medical,allUsedMedication), []];
