@@ -40,7 +40,7 @@ private _overdosedMedications = [];
 // Check for overdose from current medication
 private _currentDose = [_target, _className] call _fnc_getMedicationCount;
 if (_currentDose >= floor (_maxDosage + round(random(2))) && {_maxDosage >= 1}) then {
-    TRACE_1("exceded max dose",_currentDose);
+    TRACE_1("exceeded max dose",_currentDose);
     _overdosedMedications pushBackUnique _className;
 };
 
