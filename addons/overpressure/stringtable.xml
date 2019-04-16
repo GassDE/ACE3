@@ -30,6 +30,7 @@
             <Chinese>後方尾焰的範圍</Chinese>
             <Italian>Raggio della fiammata [lanciarazzi]</Italian>
             <Polish>Zasięg backblast'u</Polish>
+            <German>Rückwärtige Feuerstrahl Reichweite</German>
         </Key>
         <Key ID="STR_ACE_overpressure_statBackblastAngle">
             <English>Backblast angle</English>
@@ -38,6 +39,7 @@
             <Chinese>後方尾焰的角度</Chinese>
             <Italian>Angolo della fiammata [lanciarazzi]</Italian>
             <Polish>Kąt backblast'u</Polish>
+            <German>Rückwärtiger Feuerstrahl Winkel</German>
         </Key>
     </Package>
 </Project>

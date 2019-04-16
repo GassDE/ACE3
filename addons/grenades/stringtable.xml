@@ -211,7 +211,7 @@
         </Key>
         <Key ID="STR_ACE_Grenades_M127A1_White_Description">
             <English>White Hand Flare</English>
-            <German>Weiße Leuchtkugel, wird wie eine Granate geworfen.</German>
+            <German>Weiße Handfackel, wird wie eine Granate geworfen.</German>
             <Czech>Ruční světlice (Bílá)</Czech>
             <Hungarian>Kézi jelzőrakéta, Fehér színű</Hungarian>
             <Italian>Bengala (Bianco)</Italian>
@@ -227,7 +227,7 @@
         </Key>
         <Key ID="STR_ACE_Grenades_M127A1_Red_Description">
             <English>Red Hand Flare</English>
-            <German>Rote Leuchtkugel, wird wie eine Granate geworfen.</German>
+            <German>Rote Handfackel, wird wie eine Granate geworfen.</German>
             <Czech>Ruční světlice (Červená)</Czech>
             <Hungarian>Kézi jelzőrakéta, Piros színű</Hungarian>
             <Italian>Bengala (Rosso)</Italian>
@@ -243,7 +243,7 @@
         </Key>
         <Key ID="STR_ACE_Grenades_M127A1_Green_Description">
             <English>Green Hand Flare</English>
-            <German>Grüne Leuchtkugel, wird wie eine Granate geworfen.</German>
+            <German>Grüne Handfackel, wird wie eine Granate geworfen.</German>
             <Czech>Ruční světlice (Zelená)</Czech>
             <Hungarian>Kézi jelzőrakéta, Zöld színű</Hungarian>
             <Italian>Bengala (Verde)</Italian>
@@ -259,7 +259,7 @@
         </Key>
         <Key ID="STR_ACE_Grenades_M127A1_Yellow_Description">
             <English>Yellow Hand Flare</English>
-            <German>Gelbe Leuchtkugel, wird wie eine Granate geworfen.</German>
+            <German>Gelbe Handfackel, wird wie eine Granate geworfen.</German>
             <Czech>Ruční světlice (Žlutá)</Czech>
             <Hungarian>Kézi jelzőrakéta, Sárga színű</Hungarian>
             <Italian>Bengala (Giallo)</Italian>
@@ -378,36 +378,42 @@
             <Polish>Typ: Gwiezdna Flara Spadochronowa</Polish>
             <Italian>Tipo: Granata a paracadute con bengala</Italian>
             <Japanese>種類: パラシュート式照明弾 (星弾)</Japanese>
+            <German>Typ: Sternfallschirm Leuchtsignal</German>
         </Key>
         <Key ID="STR_ACE_Grenades_40mm_flare_white">
             <English>M583 Illumination Flare (White)</English>
             <Polish>M583 Flara oświetlająca (Biała)</Polish>
             <Italian>M583 Granata con bengala (Bianca)</Italian>
             <Japanese>M583 照明弾 (白)</Japanese>
+            <German>M583 Beleuchtungs Leuchtsignal (Weiß)</German>
         </Key>
         <Key ID="STR_ACE_Grenades_40mm_flare_red">
             <English>M662 Illumination Flare (Red)</English>
             <Polish>M662 Flara oświetlająca (Czerwona)</Polish>
             <Italian>M662 Granata con bengala (Rossa)</Italian>
             <Japanese>M662 照明弾 (赤)</Japanese>
+            <German>M662 Beleuchtungs Leuchtsigna (Rot)</German>
         </Key>
         <Key ID="STR_ACE_Grenades_40mm_flare_green">
             <English>M661 Illumination Flare (Green)</English>
             <Polish>M661 Flara oświetlająca (Zielona)</Polish>
             <Italian>M661 Granata con bengala (Verde)</Italian>
             <Japanese>M661 照明弾 (緑)</Japanese>
+            <German>M661 Beleuchtungs Leuchtsigna (Grün)</German>
         </Key>
         <Key ID="STR_ACE_Grenades_parachute_flare_ir_description">
             <English>Type: Parachute IR Flare</English>
             <Polish>Typ: Spadochronowa Flara IR</Polish>
             <Italian>Tipo: Granata a paracadute con infrarosso</Italian>
             <Japanese>種類: パラシュート式赤外線照明弾</Japanese>
+            <German>Typ: Fallschirm IR Leuchtsignal</German>
         </Key>
         <Key ID="STR_ACE_Grenades_40mm_flare_ir">
             <English>M992 Illumination IR Flare</English>
             <Polish>M992 Oświetlająca flara IR</Polish>
             <Italian>M992 Granata con infrarosso</Italian>
             <Japanese>M992 赤外線照明弾</Japanese>
+            <German>M992 IR Beleuchtungs Leuchtsignal</German>
         </Key>
     </Package>
 </Project>

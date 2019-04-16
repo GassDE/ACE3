@@ -3,12 +3,15 @@
     <Package name="Medical GUI">
         <Key ID="STR_ACE_Medical_GUI_Category">
             <English>ACE Medical GUI</English>
+            <German>ACE </German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_EnableActions_DisplayName">
             <English>Enable Medical Actions</English>
+            <German>Medizinische Maßnahmen aktivieren</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_EnableActions_Description">
             <English>Enables medical actions for the Interaction Menu and selects their style.</English>
+            <German>Aktiviert medizinische Aktionen für das Interaktionsmenü und wählt deren Stil.</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_Selections3D">
             <English>Selections (3D)</English>
@@ -44,27 +47,35 @@
         </Key>
         <Key ID="STR_ACE_Medical_GUI_EnableSelfActions_DisplayName">
             <English>Enable Medical Self Actions</English>
+            <German>Medizinische Selbstinteraktionen aktivieren</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_EnableSelfActions_Description">
             <English>Enables medical actions for the Self Interaction Menu.</English>
+            <German>Aktiviert medizinische Aktionen für das Selbstinteraktionsmenü.</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_EnableMedicalMenu_DisplayName">
             <English>Enable Medical Menu</English>
+            <German>Medizinischesmenü aktivieren</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_EnableMedicalMenu_Description">
             <English>Enables the use of the Medical Menu through the keybind or interaction menu.</English>
+            <German>Ermöglicht die Verwendung des medizinischen Menüs über die Tastenkombination oder das Interaktionsmenü.</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_OpenAfterTreatment_DisplayName">
             <English>Reopen Medical Menu</English>
+            <German>Medizinisches Menü erneut öffnen</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_OpenAfterTreatment_Description">
             <English>Reopen the Medical Menu after successful treatment.</English>
+            <German>Das medizinische Menü nach erfolgreicher Behandlung erneut öffnen.</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_MaxDistance_DisplayName">
             <English>Maximum Distance</English>
+            <German>Maximale Entfernung</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_MaxDistance_Description">
             <English>Maximum distance from which the Medical Menu can be opened.</English>
+            <German>Maximale Entfernung, von welcher das medizinische Menü geöffnet werden kann.</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_Medical">
             <English>Medical</English>
@@ -780,10 +791,11 @@
         -->
         <Key ID="STR_ACE_Medical_GUI_Lost_Blood1">
             <English>Lost some blood</English>
+            <German>hat etwas Blut verloren</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_Lost_Blood2">
             <English>Lost a lot of blood</English>
-            <German>Hat eine große Menge Blut verloren</German>
+            <German>hat viel Blut verloren</German>
             <Russian>Большая кровопотеря</Russian>
             <Spanish>Mucha sangre perdida</Spanish>
             <French>A perdu beaucoup de sang</French>
@@ -799,9 +811,11 @@
         </Key>
         <Key ID="STR_ACE_Medical_GUI_Lost_Blood3">
             <English>Lost a large amount of blood</English>
+            <German>hat eine große Menge Blut verloren</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_Lost_Blood4">
             <English>Lost a fatal amount of blood</English>
+            <German>hat eine tödliche Menge an Blut verloren</German>
         </Key>
         <Key ID="STR_ACE_Medical_GUI_STATUS_TOURNIQUET_APPLIED">
             <English>Tourniquet [CAT]</English>

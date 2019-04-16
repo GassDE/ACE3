@@ -454,6 +454,7 @@
             <Japanese>水平制限</Japanese>
             <Italian>Limite orrizontale</Italian>
             <Polish>Limit poziomy</Polish>
+            <German>Horizontale Grenze</German>
         </Key>
         <Key ID="STR_ACE_Scopes_statVerticalLimits">
             <English>Vertical limits</English>
@@ -461,6 +462,7 @@
             <Japanese>垂直制限</Japanese>
             <Italian>Limite verticale</Italian>
             <Polish>Limit pionowy</Polish>
+            <German>Vertikale Grenze</German>
         </Key>
     </Package>
 </Project>

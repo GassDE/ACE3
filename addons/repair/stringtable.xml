@@ -1867,6 +1867,7 @@
             <Chinese>維修時自動關閉引擎</Chinese>
             <Italian>Motore spento automaticamente durante la riparazione</Italian>
             <Polish>Automatycznie wyłącz silnik podczas napraw</Polish>
+            <German>Automatisches Abschalten des Motors während reperaturen</German>
         </Key>
         <Key ID="STR_ACE_Repair_autoShutOffEngineWhenStartingRepair_description">
             <English>Automatically shut off the engine when doing repairs.</English>
@@ -1875,6 +1876,7 @@
             <Chinese>維修時自動關閉引擎</Chinese>
             <Italian>Spegne automaticamente il motore quando si fanno riparazioni.</Italian>
             <Polish>Automatycznie wyłącz silnik podczas napraw.</Polish>
+            <German>Automatisches Abschalten des Motors während reperaturen.</German>
         </Key>
     </Package>
 </Project>

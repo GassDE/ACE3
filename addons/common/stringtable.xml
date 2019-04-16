@@ -27,7 +27,7 @@
             <Chinese>ACE-製作團隊</Chinese>
             <Chinesesimp>ACE-制作团队</Chinesesimp>
         </Key>
-		<Key ID="STR_ACE_Common_Advanced">
+        <Key ID="STR_ACE_Common_Advanced">
             <English>Advanced</English>
             <Russian>Усложненный</Russian>
             <Polish>Zaawansowany</Polish>
@@ -410,7 +410,7 @@
             <Chinese>未知的</Chinese>
             <Chinesesimp>未知的</Chinesesimp>
         </Key>
-		<Key ID="STR_ACE_Common_Normal">
+        <Key ID="STR_ACE_Common_Normal">
             <English>Normal</English>
             <German>Normal</German>
             <Italian>Normale</Italian>
@@ -512,6 +512,7 @@
             <Japanese>PBO 検査の挙動</Japanese>
             <Korean>PBO 검사</Korean>
             <Polish>Sprawdź akcję PBO</Polish>
+            <German>PBO Action überprüfen</German>
         </Key>
         <Key ID="STR_ACE_Common_CheckPBOsCheckAll">
             <English>Check PBO All</English>
@@ -521,6 +522,7 @@
             <Japanese>PBO 全てを検査</Japanese>
             <Korean>모든 PBO 검사</Korean>
             <Polish>Sprawdź wszystkie PBO</Polish>
+            <German>PBO All überprüfen</German>
         </Key>
         <Key ID="STR_ACE_Common_CheckPBOsWhitelist">
             <English>Check PBO Whitelist</English>
@@ -530,6 +532,7 @@
             <Japanese>許可リスト内の PBO を検査</Japanese>
             <Korean>검사 제외 PBO</Korean>
             <Polish>Sprawdź białą listę PBO</Polish>
+            <German>PBO Whitelist überprüfen</German>
         </Key>
         <Key ID="STR_ACE_Common_SettingFeedbackIconsName">
             <English>Feedback icons</English>
@@ -998,10 +1001,11 @@
             <Chinese>啟用</Chinese>
             <Chinesesimp>启用</Chinesesimp>
         </Key>
-		<Key ID="STR_ACE_Common_Always">
+        <Key ID="STR_ACE_Common_Always">
             <English>Always</English>
+            <German>Immer</German>
         </Key>
-		<Key ID="STR_ACE_Common_Anywhere">
+        <Key ID="STR_ACE_Common_Anywhere">
             <English>Anywhere</English>
             <Russian>Где угодно</Russian>
             <Polish>Wszędzie</Polish>
@@ -1015,7 +1019,7 @@
             <Japanese>どこでも</Japanese>
             <Korean>어디서나</Korean>
         </Key>
-		<Key ID="STR_ACE_Common_Basic">
+        <Key ID="STR_ACE_Common_Basic">
             <English>Basic</English>
             <Russian>Базовый</Russian>
             <Polish>Podstawowy</Polish>
@@ -1077,9 +1081,11 @@
         </Key>
         <Key ID="STR_ACE_Common_Confirm">
             <English>Confirm</English>
+            <German>Bestätigen</German>
         </Key>
         <Key ID="STR_ACE_Common_Never">
             <English>Never</English>
+            <German>Nie</German>
         </Key>
         <Key ID="STR_ACE_Common_VehiclesOnly">
             <English>Vehicles only</English>
@@ -1275,6 +1281,7 @@
             <Italian>Bandiera (ACE - Nera)</Italian>
             <Japanese>旗 (ACE - 黒)</Japanese>
             <Polish>Flaga (ACE - Czarna)</Polish>
+            <German>Flagge (ACE - Schwarz)</German>
         </Key>
         <Key ID="STR_ACE_Common_FlagWhite">
             <English>Flag (ACE - White)</English>
@@ -1283,6 +1290,7 @@
             <Italian>Bandiera (ACE - Bianca)</Italian>
             <Japanese>旗 (ACE - 白)</Japanese>
             <Polish>Flaga (ACE - Biała)</Polish>
+            <German>Flagge (ACE - Weiß)</German>
         </Key>
     </Package>
 </Project>

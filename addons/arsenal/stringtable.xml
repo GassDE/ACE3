@@ -104,6 +104,7 @@
             <English>[Shift+Click to save to mission defaults]</English>
             <Japanese>[Shift + クリック] でミッション標準として保存します</Japanese>
             <Polish>Shift + Klik aby zapisac jako domyślne dla misji </Polish>
+            <German>[Shift+Klick um zum Missionen Standard zu speichern]</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonRenameText">
             <English>Rename</English>
@@ -692,6 +693,7 @@
             <Japanese>装備画面を開く</Japanese>
             <Italian>Apri la pagina degli equipaggiamenti</Italian>
             <Polish>Otwórz ekran zestawów</Polish>
+            <German>Den Ausrüstungsbildschirm öffnen</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonExportTooltip">
             <English>Export current / default loadouts</English>
@@ -701,6 +703,7 @@
             <Japanese>現在 / 標準装備を出力</Japanese>
             <Italian>Esporta l'equipaggiamento attuale oppure la lista degli equipaggiamenti di base</Italian>
             <Polish>Eksportuj obecne / domyślne zestawy wyposażenia </Polish>
+            <German>Aktuelle / Standard Ausrüstung Exportieren</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonImportTooltip">
             <English>Import current / default loadouts</English>
@@ -710,6 +713,7 @@
             <Japanese>現在 / 標準装備を取込</Japanese>
             <Italian>Importa l'equipaggiamento attuale oppure la lista degli equipaggiamenti di base</Italian>
             <Polish>Importuj obecne / domyślne zestawy wyposażenia</Polish>
+            <German>Aktuelle / Standard Ausrüstung Importieren</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_statPotassium">
             <English>Potassium levels</English>
@@ -719,6 +723,7 @@
             <Chinese>鉀水平</Chinese>
             <Italian>Ilvello di potassio</Italian>
             <Polish>Poziomy potasu</Polish>
+            <German>Kaliumspiegel</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_statMagnification">
             <English>Magnification</English>
@@ -779,6 +784,7 @@
             <Chinese>頁面</Chinese>
             <Italian>Pagina</Italian>
             <Polish>Strona</Polish>
+            <German>Seite</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_enableIdentityTabsSettings">
             <English>Enable the faces / voices / insignias tabs</English>
@@ -788,6 +794,7 @@
             <Chinese>啟用臉譜/聲音/徽章選項</Chinese>
             <Italian>Abilita volti, voci e insegne</Italian>
             <Polish>Aktywuj zakładki twarz / głos / insygnia</Polish>
+            <German>Gesichter / Stimmen / Abzeichen aktivieren</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonClearContainerTooltip">
             <English>Empty the selected container</English>
@@ -797,6 +804,7 @@
             <Chinese>清空選擇的箱子</Chinese>
             <Italian>Svuota il contenitore selezionato</Italian>
             <Polish>Opróżnij wybrany pojemnik</Polish>
+            <German>Den ausgewählten Kontainer leeren</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_exportedClassnameText">
             <English>Exported class name to clipboard</English>
@@ -806,6 +814,7 @@
             <Chinese>輸出 class name 到剪貼簿上</Chinese>
             <Italian>Copiato il nome della classe negli appunti</Italian>
             <Polish>Wyeksportowano nazwę klasy do schowka</Polish>
+            <German>Classname in die Zwischenablage exportiert</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_Mode">
             <English>Mode</English>
@@ -844,6 +853,7 @@
             <Japanese>禁止リスト</Japanese>
             <Italian>Lista Nera</Italian>
             <Polish>Czarna lista (lista wykluczeń)</Polish>
+            <German>Blacklist</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_Items">
             <English>Items</English>
@@ -866,18 +876,22 @@
             <Japanese>スクリプト用に現在のアイテム リストをアレイで出力します</Japanese>
             <Italian>Esporta l'attuale lista di elementi come un array, per essere usati negli script</Italian>
             <Polish>Eksportuj obecną listę przedmiotów jako tablicę do wykorzystania w skryptach</Polish>
+            <German>Aktuelle Gegenstandsliste als Array exportieren zur Verwendung in Skripts</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_AttributeImport_Tooltip">
             <English>Import items list array from clipboard (should be the same format as export)</English>
             <Polish>Zaimportuj listę przedmiotów ze schowka (lista musi być w tym samym formacie jak przy exporcie)</Polish>
+            <German>Gegenstandsliste aus der Zwischenablage importieren (sollte dasselbe Format wie beim exportieren haben)</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_AttributeAddCompatible_DisplayName">
             <English>Add Compatible Items</English>
             <Polish>Dodaj kompatybilne przedmioty</Polish>
+            <German>Kompatible Gegenstände hinzufügen</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_AttributeAddCompatible_Tooltip">
             <English>Will automatically add compatible attachments or magazines (based on selected category) for all weapons in current items list</English>
             <Polish>Automatycznie doda kompatybilne dodatki oraz magazynki (odpowiednio do każdej kategorii) dla wszystkich broni na liście</Polish>
+            <German>Fügt automatisch kompatible Aufsätze oder Magazine (basierend auf der ausgewählten Kategorie) für akke Waffen in der aktuellen Gegenstandsliste hinzu</German>
         </Key>
         <Key ID="STR_ACE_Arsenal_statTTL">
             <English>Time to live</English>
@@ -885,6 +899,7 @@
             <Japanese>生存時間</Japanese>
             <Polish>Czas by żyć</Polish>
             <Italian>Scadenza (TTL)</Italian>
+            <German>Lebensdauer</German>
         </Key>
     </Package>
 </Project>

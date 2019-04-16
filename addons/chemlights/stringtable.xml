@@ -232,6 +232,7 @@
             <Japanese>ケミライト (高輝度 青)</Japanese>
             <Polish>Świetlik (jaskrawy niebieski)</Polish>
             <Italian>Luce chimica (Hi Blu)</Italian>
+            <German>Knicklicht (blau, hell)</German>
         </Key>
         <Key ID="STR_ACE_Chemlights_HiBlue_DisplayNameShort">
             <English>Blue Hi Light</English>
@@ -239,6 +240,7 @@
             <Japanese>高輝度の青色</Japanese>
             <Polish>Jaskrawe niebieskie światło</Polish>
             <Italian>Luce Hi Blu</Italian>
+            <German>Helles, blaues Knicklicht</German>
         </Key>
         <Key ID="STR_ACE_Chemlights_HiBlue_DescriptionShort">
             <English>Type: Light - Blue Hi (30 minute)&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
@@ -246,6 +248,7 @@
             <Japanese>種類: 照明 - 高輝度 青 (30分間)&lt;br /&gt;装填数: 1&lt;br /&gt;次で使用: 携帯</Japanese>
             <Polish>Typ: Światło - jaskrawe niebieskie (30 minut)&lt;br/&gt;Pociski: 1&lt;br/&gt;Używany w: ręce</Polish>
             <Italian>Tipo: Luce - Hi blu (30 minuti)&lt;br/&gt;Rimanenti:1 &lt;br/&gt;Usata in: Mano</Italian>
+            <German>Typ: Licht - blau, hell (30 Minuten)&lt;br /&gt;Anzahl: 1&lt;br /&gt;Benutz in: Hand</German>
         </Key>
         <Key ID="STR_ACE_Chemlights_HiGreen_DisplayName">
             <English>Chemlight (Hi Green)</English>
@@ -253,6 +256,7 @@
             <Japanese>ケミライト (高輝度 緑)</Japanese>
             <Polish>Świetlik (jaskrawy zielony)</Polish>
             <Italian>Luce chimica (Hi Verde)</Italian>
+            <German>Knicklicht (gelb, hell)</German>
         </Key>
         <Key ID="STR_ACE_Chemlights_HiGreen_DisplayNameShort">
             <English>Green Hi Light</English>
@@ -260,6 +264,7 @@
             <Japanese>高輝度の青色</Japanese>
             <Polish>Jaskrawe zielone światło</Polish>
             <Italian>Luce Hi Verde</Italian>
+            <German>Helles, grünes Knicklicht</German>
         </Key>
         <Key ID="STR_ACE_Chemlights_HiGreen_DescriptionShort">
             <English>Type: Light - Green Hi (30 minute)&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
@@ -267,6 +272,7 @@
             <Japanese>種類: 照明 - 高輝度 緑 (30分間)&lt;br /&gt;装填数: 1&lt;br /&gt;次で使用: 携帯</Japanese>
             <Polish>Typ: Światło - jaskrawe zielone (30 minut)&lt;br/&gt;Pociski: 1&lt;br/&gt;Używany w: ręce</Polish>
             <Italian>Tipo: Luce - Hi verde (30 minuti)&lt;br/&gt;Rimanenti: 1&lt;br/&gt;Usata in: Mano</Italian>
+            <German>Typ: Licht - grün, hell (30 Minuten)&lt;br /&gt;Anzahl: 1&lt;br /&gt;Benutzt in: Hand</German>
         </Key>
         <Key ID="STR_ACE_Chemlights_UltraHiOrange_DisplayName">
             <English>Chemlight (Ultra-Hi Orange)</English>
@@ -274,6 +280,7 @@
             <Japanese>ケミライト (高輝度 オレンジ)</Japanese>
             <Polish>Świetlik (ultra-jaskrawy pomarańczowy)</Polish>
             <Italian>Luce chimica (Ultra-Hi Arancione)</Italian>
+            <German>Knicklicht (orange, extrem hell)</German>
         </Key>
         <Key ID="STR_ACE_Chemlights_UltraHiOrange_DisplayNameShort">
             <English>Orange Ultra-Hi Light</English>
@@ -281,6 +288,7 @@
             <Japanese>ウルトラ高輝度のオレンジ色</Japanese>
             <Polish>Ultra-jaskrawe pomarańczowe światło</Polish>
             <Italian>Luce Ultra-Hi Arancione</Italian>
+            <German>Extrem helles, oranges Knicklicht</German>
         </Key>
         <Key ID="STR_ACE_Chemlights_UltraHiOrange_DescriptionShort">
             <English>Type: Light - Orange Ultra-Hi (5 minute)&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
@@ -288,6 +296,7 @@
             <Japanese>種類: 照明 - ウルトラ高輝度 オレンジ (5分間)&lt;br /&gt;装填数: 1&lt;br /&gt;次で使用: 携帯</Japanese>
             <Polish>Typ: Światło - ultra-jaskrawe pomarańczowe (30 minut)&lt;br/&gt;Pociski: 1&lt;br/&gt;Używany w: ręce</Polish>
             <Italian>Tipo: Luce - Ultra-Hi (5 minuti)&lt;br/&gt;Rimanenti: 1&lt;br/&gt;Usata in: Mano</Italian>
+            <German>Typ: Licht - orange, extrem hell (5 Minuten)&lt;br /&gt;Anzahl: 1&lt;br /&gt;Benutzt in: Hand</German>
         </Key>
         <Key ID="STR_ACE_Chemlights_IR_DisplayName">
             <English>Chemlight (IR)</English>

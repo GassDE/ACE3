@@ -3,7 +3,7 @@
     <Package name="Overheating">
         <Key ID="STR_ACE_Overheating_DisplayName">
             <English>Overheating</English>
-            <German>Heißlaufen</German>
+            <German>Überhitzung</German>
             <Italian>Surriscaldamento</Italian>
             <Chinese>過熱</Chinese>
             <Chinesesimp>过热</Chinesesimp>

@@ -3382,6 +3382,7 @@
             <Japanese>ELCAN SpecterOS (緑ヘックス)</Japanese>
             <Italian>ELCAN SpecterOS (Verde Hex)</Italian>
             <Polish>ELCAN SpecterOS (Zielony Hex)</Polish>
+            <German>ELCAN SpecterOS (Hex Grün)</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_erco_blk">
             <English>SIG BRAVO4 / ROMEO3 (Black)</English>
@@ -3417,6 +3418,7 @@
             <Japanese>Nightforce NXS</Japanese>
             <Italian>Nightforce NXS</Italian>
             <Polish>Nightforce NXS</Polish>
+            <German>Nightforce NXS</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_lrps_ghex">
             <English>Nightforce NXS (Green Hex)</English>
@@ -3425,6 +3427,7 @@
             <Japanese>Nightforce NXS (緑ヘックス)</Japanese>
             <Italian>Nightforce NXS (Verde Hex)</Italian>
             <Polish>Nightforce NXS (Zielony Hex)</Polish>
+            <German>Nightforce NXS (Hex Grün)</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_lrps_tna">
             <English>Nightforce NXS (Jungle)</English>
@@ -3442,6 +3445,7 @@
             <Japanese>US Optics MR-10 (ブラック)</Japanese>
             <Polish>US Optics MR-10 (Czarny)</Polish>
             <Italian>Ottica US MR-10 (nera)</Italian>
+            <German>US Optics MR-10 (Schwarz)</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_ams_khk">
             <English>US Optics MR-10 (Khaki)</English>
@@ -3450,6 +3454,7 @@
             <Japanese>US Optics MR-10 (カーキ)</Japanese>
             <Polish>US Optics MR-10 (Khaki)</Polish>
             <Italian>Ottica US MR-10 (cachi)</Italian>
+            <German>US Optics MR-10 (Khaki)</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_ams_snd">
             <English>US Optics MR-10 (Sand)</English>
@@ -3458,6 +3463,7 @@
             <Japanese>US Optics MR-10 (サンド)</Japanese>
             <Polish>US Optics MR-10 (Piasek)</Polish>
             <Italian>Ottica US MR-10 (sabbia)</Italian>
+            <German>US Optics MR-10 (Sand)</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_khs_blk">
             <English>KAHLES Helia (Black)</English>
@@ -3466,6 +3472,7 @@
             <Japanese>KAHLES ヘリア (ブラック)</Japanese>
             <Polish>KAHLES Helia (Czarny)</Polish>
             <Italian>KAHLES Helia (nero)</Italian>
+            <German>KAHLES Helia (Schwarz)</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_khs_hex">
             <English>KAHLES Helia (Hex)</English>
@@ -3474,6 +3481,7 @@
             <Japanese>KAHLES ヘリア (ヘックス)</Japanese>
             <Polish>KAHLES Helia (Hex)</Polish>
             <Italian>KAHLES Helia (esagonale)</Italian>
+            <German>KAHLES Helia (Hex)</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_khs_old">
             <English>KAHLES Helia (Old)</English>
@@ -3482,6 +3490,7 @@
             <Japanese>KAHLES ヘリア (使い古し)</Japanese>
             <Polish>KAHLES Helia (Stary)</Polish>
             <Italian>KAHLES Helia (vecchio)</Italian>
+            <German>KAHLES Helia (Alt)</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_khs_tan">
             <English>KAHLES Helia (Tan)</English>
@@ -3490,6 +3499,7 @@
             <Japanese>KAHLES Helia (タン)</Japanese>
             <Polish>KAHLES Helia (Tan)</Polish>
             <Italian>KAHLES Helia (marroncino)</Italian>
+            <German>KAHLES Helia (hellbraun)</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_dms">
             <English>Burris XTR II</English>
@@ -3498,6 +3508,7 @@
             <Japanese>Burris XTR II</Japanese>
             <Italian>Burris XTR II</Italian>
             <Polish>Burris XTR II</Polish>
+            <German>Burris XTR II</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_dms_ghex">
             <English>Burris XTR II (Green Hex)</English>
@@ -3506,6 +3517,7 @@
             <Japanese>Burris XTR II (緑ヘックス)</Japanese>
             <Italian>Burris XTR II (Green Hex)</Italian>
             <Polish>Burris XTR II (Zielony Hex)</Polish>
+            <German>Burris XTR II (Hex Grün)</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_holosight">
             <English>EOTech XPS3 (Tan)</English>
@@ -3568,6 +3580,7 @@
             <Japanese>IOR-Valdada ピットブル 2</Japanese>
             <Italian>IOR-Valdada Pitbull 2</Italian>
             <Polish>IOR-Valdada Pitbull 2</Polish>
+            <German>IOR-Valdada Pitbull 2</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_Yorris">
             <English>Burris FastFire 2</English>
@@ -3576,6 +3589,7 @@
             <Japanese>Burris ファストファイア 2</Japanese>
             <Italian>Burris FastFire 2</Italian>
             <Polish>Burris FastFire 2</Polish>
+            <German>Burris FastFire 2</German>
         </Key>
         <Key ID="STR_ACE_RealisticNames_optic_ACO">
             <English>C-More Railway (Red)</English>

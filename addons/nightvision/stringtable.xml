@@ -325,6 +325,7 @@
             <French>Effets d'obturateur</French>
             <Italian>Effetti lampeggianti</Italian>
             <Polish>Efekt Shutter</Polish>
+            <German>Verschlußeffekte</German>
         </Key>
         <Key ID="STR_ACE_NightVision_shutterEffects_description">
             <English>Rolling shutter effect from muzzle flashes</English>
@@ -334,6 +335,7 @@
             <French>Effets d'obturateur à rideau dû aux flashs du canon</French>
             <Italian>Effetto lampeggiante dato dal lampo dello sparo</Italian>
             <Polish>Efekt rolling shutter z błysków wylotowych</Polish>
+            <German>Rolling-Shutter-Effekt durch Mündungsblitze</German>
         </Key>
     </Package>
 </Project>

@@ -4,24 +4,31 @@
         <Container name="Settings">
             <Key ID="STR_ACE_Medical_treatment_subCategory">
                 <English>Treatment</English>
+                <German>Behandlung</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_advancedBandages_DisplayName">
                 <English>Advanced Bandages</English>
+                <German>Erweiterte Bandagen</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_advancedBandages_Description">
                 <English>Enable advanced bandages (required for wound reopening)</English>
+                <German>Erweiterte Bandagen aktivieren (für das Wiederöffnen der Wunde erforderlich)</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_advancedDiagnose_DisplayName">
                 <English>Advanced Diagnose</English>
+                <German>Erweiterte Diagnose</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_advancedDiagnose_Description">
                 <English>Enable advanced diagnose</English>
+                <German>Erweiterte Diagnose aktivieren</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_advancedMedication_DisplayName">
                 <English>Advanced Medication</English>
+                <German>Erweiterte Medikation</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_advancedMedication_Description">
                 <English>Enable advanced medication</English>
+                <German>Erweiterte Medikation aktivieren</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_increaseTrainingInLocations_DisplayName">
                 <English>Locations boost training</English>
@@ -55,9 +62,11 @@
             </Key>
             <Key ID="STR_ACE_Medical_treatment_allowSelfIV_DisplayName">
                 <English>Self IV Transfusion</English>
+                <German>Selbst-IV-Transfusion</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_allowSelfIV_Description">
                 <English>Allows using IV Transfusions on yourself</English>
+                <German>Ermöglicht die Verwendung von IV-Transfusionen bei sich selbst</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_CPRcreatesPulse">
                 <English>CPR creates pulse</English>
@@ -118,6 +127,7 @@
             </Key>
             <Key ID="STR_ACE_Medical_treatment_medicSetting_Epi_Description">
                 <English>Who can use Epinephrine?</English>
+                <German>Wer kann Epiniphrin benützen?</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_medicSetting_PAK_DisplayName">
                 <English>Allow PAK</English>
@@ -280,12 +290,15 @@
             </Key>
             <Key ID="STR_ACE_Medical_treatment_MedicalSettings_useLocation_Epi_Description">
                 <English>Where can the Epinephrine be used?</English>
+                <German>Wo kann Epiniphrin benutzt werden?</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_PAKTime">
                 <English>How long should PAK take to apply?</English>
+                <German>Wie lange sollte die Anwendung von Erste-Hilfe-Sets dauern?</German>
             </Key>
             <Key ID="STR_ACE_Medical_treatment_PAKTime_Description">
                 <English>How long should PAK take to apply? Use 0 for default (based on damage)</English>
+                <German>Wie lange sollte die Anwendung von Erste-Hilfe-Sets dauern? 0 für den Standard (basierend auf Schaden)</German>
             </Key>
         </Container>
         <Container name="SettingsLitter">
@@ -2170,6 +2183,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_treatment_Triage_Status_Minimal">
             <English>Minimal</English>
+            <German>Minimal</German>
         </Key>
         <Key ID="STR_ACE_Medical_treatment_Triage_Status_Delayed">
             <English>Delayed</English>
@@ -3442,12 +3456,15 @@
         </Key>
         <Key ID="STR_ACE_Medical_treatment_convertItems_DisplayName">
             <English>Convert vanilla items</English>
+            <German>Vanilla items umwandeln</German>
         </Key>
         <Key ID="STR_ACE_Medical_treatment_convertItems_Description">
             <English>Enables or disables whether vanilla medical items are converted to ACE medical items or just removed</English>
+            <German>Aktiviert oder deaktiviert, ob vanilla medizinische items in ACE medizinische items umgewandelt werden oder entfernt werden.</German>
         </Key>
         <Key ID="STR_ACE_Medical_treatment_convertItems_remove">
             <English>Just remove vanilla medical</English>
+            <German>Vanilla medizinische items entfernen</German>
         </Key>
         <Key ID="STR_ACE_Medical_treatment_MedicalSettings_useLocation_PAK_DisplayName">
             <English>Locations PAK</English>

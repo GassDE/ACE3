@@ -848,6 +848,7 @@
             <Chinese>拋</Chinese>
             <Italian>Gira</Italian>
             <Polish>Przewróć</Polish>
+            <German>Kippen</German>
         </Key>
         <Key ID="STR_ACE_Interaction_Interact">
             <English>Interact</English>
@@ -1095,6 +1096,7 @@
             <Chinese>拿出屍體</Chinese>
             <Chinesesimp>拿出尸体</Chinesesimp>
             <Polish>Wyciągnij ciało</Polish>
+            <German>Körper herausziehen</German>
         </Key>
         <Key ID="STR_ACE_Interaction_SmashWindshield">
             <English>Smash windshield</English>

@@ -119,6 +119,7 @@
             <Japanese>Zeus でパイロン メニューを有効化</Japanese>
             <French>Activer le menu des pylônes (Zeus)</French>
             <Polish>Aktywuj Menu Pylonów dla Zeus'a</Polish>
+            <German>Außenlaststationen Menu für Zeus aktivieren</German>
         </Key>
         <Key ID="STR_ACE_Pylons_EnabledForZeus_description">
             <English>Enables use of the zeus module.</English>
@@ -128,6 +129,7 @@
             <Japanese>Zeus モジュールでパイロン メニューを利用できます。</Japanese>
             <French>Autorise l'utilisation des modules Zeus</French>
             <Polish>Aktywuj wykorzystanie modułu zeus'a.</Polish>
+            <German>Verwendung von Zeus-Modulen zulassen.</German>
         </Key>
         <Key ID="STR_ACE_Pylons_EnabledFromAmmoTrucks">
             <English>Enable Pylons Menu from Ammo Trucks</English>
@@ -137,6 +139,7 @@
             <Japanese>弾薬トラックからパイロン メニューを有効化</Japanese>
             <French>Activer le menu des pylônes (camion de munitions)</French>
             <Polish>Aktywuj Menu Pylonów dla Ciężarówek z amunicją</Polish>
+            <German>Aktiviert Außenlaststations Menu von Munitions LKW's</German>
         </Key>
         <Key ID="STR_ACE_Pylons_EnabledFromAmmoTrucks_description">
             <English>Enables use of pylons menu from ammo trucks.</English>
@@ -146,6 +149,7 @@
             <Japanese>弾薬給弾トラックからパイロン メニューを利用できます。</Japanese>
             <French>Autorise l'utilisation du menu des pylônes depuis les camions de munitions.</French>
             <Polish>Aktywuj wykorzystanie menu pylonów z ciężarówek z amunicją.</Polish>
+            <German>Ermöglicht die Verwendung vom Außenlaststations Menu von Munitions LKW's</German>
         </Key>
         <Key ID="STR_ACE_Pylons_AircraftDoesntHavePylons">
             <English>This aircraft doesn't have pylons</English>
@@ -155,6 +159,7 @@
             <Japanese>航空機にパイロンがありません</Japanese>
             <French>Cet aéronef n'a pas de pylônes</French>
             <Polish>Ten pojazd nie posiada pylonów</Polish>
+            <German>Dieses Fluggärat besitzt keine Außenlaststationen</German>
         </Key>
         <Key ID="STR_ACE_Pylons_ConfigurePylonsDisabledForZeus">
             <English>Configure pylons module is disabled for zeus</English>
@@ -164,6 +169,7 @@
             <Japanese>Zeus のパイロン モジュールを無効化</Japanese>
             <French>La configuration de pylônes est désactivé pour Zeus</French>
             <Polish>Konfiguracja modułu pylonów jest wyłączona dla zeus'a</Polish>
+            <German>Konfiguriere Außenlaststationen-Modul ist für Zeus deaktiviert</German>
         </Key>
         <Key ID="STR_ACE_Pylons_RearmNewPylons">
             <English>Rearm New Pylons</English>

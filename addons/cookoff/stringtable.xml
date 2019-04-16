@@ -14,9 +14,11 @@
         </Key>
         <Key ID="STR_ACE_CookOff_enable_hd_name">
             <English>Damage handling and turret effects</English>
+            <German>Schadenshandhabungs und Geschützturm Effekte </German>
         </Key>
         <Key ID="STR_ACE_CookOff_enable_hd_tooltip">
             <English>Changes damage handling for cook off and turret explosion effects</English>
+            <German>Ändert Schadenshandhabung für Durchzündungen und Geschützturm Explosions-Effekte</German>
         </Key>
         <Key ID="STR_ACE_CookOff_generic_turret_wreck">
             <English>Wreck (Turret)</English>

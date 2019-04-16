@@ -10,6 +10,7 @@
             <Chinesesimp>提供的位置无效。</Chinesesimp>
             <Korean>위치가 잘못되었습니다.</Korean>
             <Polish>Podano błędną pozycję.</Polish>
+            <German>Ungültige Position angegeben.</German>
         </Key>
         <Key ID="STR_ACE_ai_GarrisonNoUnits">
             <English>No units provided.</English>
@@ -20,6 +21,7 @@
             <Chinesesimp>找不到可用的单位。</Chinesesimp>
             <Korean>병력이 없습니다.</Korean>
             <Polish>Nie podano żadnych jednostek.</Polish>
+            <German>Es wurden keine Einheiten zur Verfügung gestellt.</German>
         </Key>
         <Key ID="STR_ACE_ai_GarrisonNotEnoughPos">
             <English>There aren't enough positions to place all units.</English>
@@ -30,6 +32,7 @@
             <Chinesesimp>没有足够的位置能摆放所有单位。</Chinesesimp>
             <Korean>모든 병력을 배치 할 공간이 없습니다.</Korean>
             <Polish>Nie ma wystarczającej ilości pozycji, aby umieścić wszystkie jednostki.</Polish>
+            <German>Es gibt nicht genügend Positionen, um alle Einheiten zu platzieren.</German>
         </Key>
         <Key ID="STR_ACE_ai_GarrisonNoBuilding">
             <English>No building found.</English>
@@ -40,6 +43,7 @@
             <Chinesesimp>没找到建筑物。</Chinesesimp>
             <Korean>건물이 없습니다.</Korean>
             <Polish>Nie znaleziono budynku.</Polish>
+            <German>Kein Gebäude gefunden.</German>
         </Key>
     </Package>
 </Project>

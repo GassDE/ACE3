@@ -27,108 +27,126 @@
             <Polish>Pocisk HOT</Polish>
             <Italian>Missile HOT</Italian>
             <Japanese>HOT ミサイル</Japanese>
+            <German>HOT Rakete</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot1">
             <English>HOT 1</English>
             <Polish>HOT 1</Polish>
             <Italian>HOT 1</Italian>
             <Japanese>HOT 1</Japanese>
+            <German>HOT 1</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot2">
             <English>HOT 2</English>
             <Polish>HOT 2</Polish>
             <Italian>HOT 2</Italian>
             <Japanese>HOT 2</Japanese>
+            <German>HOT 2</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot2mp">
             <English>HOT 2MP</English>
             <Polish>HOT 2MP</Polish>
             <Italian>HOT 2MP</Italian>
             <Japanese>HOT 2MP</Japanese>
+            <German>HOT 2MP</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot3">
             <English>HOT 3</English>
             <Polish>HOT 3</Polish>
             <Italian>HOT 3</Italian>
             <Japanese>HOT 3</Japanese>
+            <German>HOT 3</German>
         </Key>
         <Key ID="STR_ACE_HOT_missileType_Description_AP">
             <English>Wire-Guided Missile (Anti-Personnel)</English>
             <Polish>Pocisk kierowany przewodowo (przeciwpiechotny)</Polish>
             <Italian>Missile filoguidato antiuomo</Italian>
             <Japanese>ワイヤ有線誘導ミサイル (対人)</Japanese>
+            <German>Drahtgelenkte Rakete (Anti-Personen)</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot1_1">
             <English>1x HOT 1 [ACE]</English>
             <Polish>1x HOT 1 [ACE]</Polish>
             <Italian>1x HOT1 [ACE]</Italian>
             <Japanese>1x HOT 1 [ACE]</Japanese>
+            <German>1x HOT 1 [ACE]</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot1_3">
             <English>3x HOT 1 [ACE]</English>
             <Polish>3x HOT 1 [ACE]</Polish>
             <Italian>3x HOT 1 [ACE]</Italian>
             <Japanese>3x HOT 1 [ACE]</Japanese>
+            <German>3x HOT 1 [ACE]</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot1_4">
             <English>4x HOT 1 [ACE]</English>
             <Polish>4x HOT 1 [ACE]</Polish>
             <Italian>4x HOT 1 [ACE]</Italian>
             <Japanese>4x HOT 1 [ACE]</Japanese>
+            <German>4x HOT 1 [ACE]</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot2_1">
             <English>1x HOT 2 [ACE]</English>
             <Polish>1x HOT 2 [ACE]</Polish>
             <Italian>1x HOT 2 [ACE]</Italian>
             <Japanese>1x HOT 2 [ACE]</Japanese>
+            <German>1x HOT 2 [ACE]</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot2_3">
             <English>3x HOT 2 [ACE]</English>
             <Polish>3x HOT 2 [ACE]</Polish>
             <Italian>3x HOT 2 [ACE]</Italian>
             <Japanese>3x HOT 2 [ACE]</Japanese>
+            <German>3x HOT 2 [ACE]</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot2_4">
             <English>4x HOT 2 [ACE]</English>
             <Polish>4x HOT 2 [ACE]</Polish>
             <Italian>4x HOT 2 [ACE]</Italian>
             <Japanese>4x HOT 2 [ACE]</Japanese>
+            <German>4x HOT 2 [ACE]</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot2mp_1">
             <English>1x HOT 2MP [ACE]</English>
             <Polish>1x HOT 2MP [ACE]</Polish>
             <Italian>1x HOT 2MP [ACE]</Italian>
             <Japanese>1x HOT 2MP [ACE]</Japanese>
+            <German>1x HOT 2MP [ACE]</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot2mp_3">
             <English>3x HOT 2MP [ACE]</English>
             <Polish>3x HOT 2MP [ACE]</Polish>
             <Italian>3x HOT 2MP [ACE]</Italian>
             <Japanese>3x HOT 2MP [ACE]</Japanese>
+            <German>3x HOT 2MP [ACE]</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot2mp_4">
             <English>4x HOT 2MP [ACE]</English>
             <Polish>4x HOT 2MP [ACE]</Polish>
             <Italian>4x HOT 2MP [ACE]</Italian>
             <Japanese>4x HOT 2MP [ACE]</Japanese>
+            <German>4x HOT 2MP [ACE]</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot3_1">
             <English>1x HOT 3 [ACE]</English>
             <Polish>1x HOT 3 [ACE]</Polish>
             <Italian>1x HOT 3 [ACE]</Italian>
             <Japanese>1x HOT 3 [ACE]</Japanese>
+            <German>1x HOT 3 [ACE]</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot3_4">
             <English>4x HOT 3 [ACE]</English>
             <Polish>4x HOT 3 [ACE]</Polish>
             <Italian>4x HOT 3 [ACE]</Italian>
             <Japanese>4x HOT 3 [ACE]</Japanese>
+            <German>4x HOT 3 [ACE]</German>
         </Key>
         <Key ID="STR_ACE_HOT_hot3_3">
             <English>3x HOT 3 [ACE]</English>
             <Polish>3x HOT 3 [ACE]</Polish>
             <Italian>3x HOT 3 [ACE]</Italian>
             <Japanese>3x HOT 3 [ACE]</Japanese>
+            <German>3x HOT 3 [ACE]</German>
         </Key>
     </Package>
 </Project>

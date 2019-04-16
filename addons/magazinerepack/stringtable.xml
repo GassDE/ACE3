@@ -9,6 +9,7 @@
             <Japanese>弾倉詰め替え</Japanese>
             <Korean>탄약 채우기</Korean>
             <Polish>Przepakowywanie magazynków</Polish>
+            <German>Magazin umpacken </German>
         </Key>
         <Key ID="STR_ACE_MagazineRepack_timePerAmmo">
             <English>Time per round</English>
